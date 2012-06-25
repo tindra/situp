@@ -1,0 +1,17 @@
+@import "reset.css";
+
+/* Global styles
+----------------------------------------------- */
+body {background:#fff; color:#191919; font:13px/17px 'Trebuchet MS',Arial,sans-serif; cursor:auto; position:relative;}
+
+.page {width:53.538em; height:26em; position:fixed; top:50%; left:50%; margin:-15em 0 0 -23.692em; *zoom:1;}
+
+/* =Header
+----------------------------------------------- */
+.page-header {position:relative; margin-bottom:2.308em; padding-top:74px;}
+.page-header-logo {position:absolute; left:-174px; top:0;}
+.page-header-title {font-weight:normal; font-size:1.231em; line-height:1.313; text-transform:uppercase; color:#6c6c6c;}
+
+/* =Content
+----------------------------------------------- */
+.social-item {display:-moz-inline-stack; display:inline-block; *display:inline; *zoom:1; vertical-align:middle; margin:4.385em 63px 0 0;}
